@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🔭 Estou atualmente estudando Programação Full Stack na Trybe.
 - 💬 Desenvolvo atualmente com javascript, CSS e HTML.
 - 🌱 Estou estudando React/Redux.
-- 💬 Entre em contato comigo no email thiago_flexa@hotmail.com.
+- 💬 Entre em contato comigo no email thiago_flexa@hotmail.com ou linkedin https://www.linkedin.com/in/thiago-flexa/.
 - 🔭 Tenho como robbie o aquarimo e jogar.
 
 [![Thiago Flexa GitHub stats](https://github-readme-stats.vercel.app/api?username=TFlexa)](https://github.com/anuraghazra/github-readme-stats)
