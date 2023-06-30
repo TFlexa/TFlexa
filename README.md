@@ -4,9 +4,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Estou atualmente estudando Programação Full Stack na Trybe.
-- 💬 Desenvolvo atualmente com javascript, CSS, HTML, React -- https://www.linkedin.com/in/thiago-flexa/details/skills/.
-- 🌱 No momento estou estudando Back-End, aprendendo a trabalhar com Docker, SQL, NODE.
+- 🔭 Programador Full Stack.
+- 💬 Desenvolvo atualmente com javascript, CSS, HTML, React, Python, typescript, -- https://www.linkedin.com/in/thiago-flexa/details/skills/.
+- 🌱 Utilizo Docker, SQL, NODE.
 - 💬 Entre em contato comigo no email thiago_flexa@hotmail.com.
 - 🔭 Tenho como robbie o aquarimo e jogar.
 
